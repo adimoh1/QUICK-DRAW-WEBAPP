@@ -1,0 +1,7 @@
+body{
+    background-color: paleturquoise;
+}
+
+.score1,.time1,.p1,.p2,.p3{
+    font-size: 20px;
+}
